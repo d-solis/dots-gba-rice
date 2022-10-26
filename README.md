@@ -1,4 +1,4 @@
-# Dotfiles themedafter the game boy advance
+# Dotfiles themed after the game boy advance
 
 Forked from:
 
