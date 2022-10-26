@@ -4,7 +4,7 @@ Forked from: [Yoru](https://github.com/rxyhn/yoru)
 
 # Gallery 
 
-![1666812543 screensht](https://user-images.githubusercontent.com/43517199/198123058-ff2de504-5fb5-4372-b845-c3ff24e36d8d.png)
+![1666825159 screensht](https://user-images.githubusercontent.com/43517199/198154501-ac6064f9-7e76-40c2-8bcd-66ba253c83ef.png)
 
 # Thanks To
 
