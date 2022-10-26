@@ -1,0 +1,800 @@
+Oct 15 17:41 : update: added /LofiUnknown2.mp3
+Oct 15 17:41 : update: added /LofiUnknown3.mp3
+Oct 15 17:41 : update: added /ItGetsBetterlofi.mp3
+Oct 15 17:41 : update: added /LofiUnknown.mp3
+Oct 15 17:41 : update: added /LofiUnknown6.mp3
+Oct 15 17:41 : update: added /PovYoureAloneLofi.mp3
+Oct 15 17:41 : update: added /YoullGetThroughThisLofi.mp3
+Oct 15 17:41 : update: added /ChristmasLofi.mp3
+Oct 15 17:41 : update: added /LofiGamingMix.mp3
+Oct 15 17:41 : update: added /PovItsAllergySeasonLofi.mp3
+Oct 15 17:41 : update: added /LofiUnknown4.mp3
+Oct 15 17:41 : update: added wynncraft/Adventure.mp3
+Oct 15 17:41 : update: added wynncraft/SaddleUp.mp3
+Oct 15 17:41 : update: added wynncraft/EpicWynn.mp3
+Oct 15 17:41 : update: added /GiornoTheme.mp3
+Oct 15 17:41 : update: added /LofiUnknown5.mp3
+Oct 15 17:41 : update: added /HappierByMarshmello.mp3
+Oct 15 17:41 : update: added /LofiUnknown7.mp3
+Oct 15 17:43 : client: [0] command "currentsong" during idle
+Oct 15 17:44 : client: [0] command "currentsong" during idle
+Oct 15 17:45 : update: added Main Playlist/LofiUnknown2.mp3
+Oct 15 17:45 : update: added Main Playlist/LofiUnknown3.mp3
+Oct 15 17:45 : update: added Main Playlist/ItGetsBetterlofi.mp3
+Oct 15 17:45 : update: added Main Playlist/LofiUnknown.mp3
+Oct 15 17:45 : update: added Main Playlist/LofiUnknown6.mp3
+Oct 15 17:45 : update: added Main Playlist/PovYoureAloneLofi.mp3
+Oct 15 17:45 : update: added Main Playlist/YoullGetThroughThisLofi.mp3
+Oct 15 17:45 : update: added Main Playlist/ChristmasLofi.mp3
+Oct 15 17:45 : update: added Main Playlist/LofiGamingMix.mp3
+Oct 15 17:45 : update: added Main Playlist/PovItsAllergySeasonLofi.mp3
+Oct 15 17:45 : update: added Main Playlist/LofiUnknown4.mp3
+Oct 15 17:45 : update: added Main Playlist/GiornoTheme.mp3
+Oct 15 17:45 : update: added Main Playlist/LofiUnknown5.mp3
+Oct 15 17:45 : update: added Main Playlist/HappierByMarshmello.mp3
+Oct 15 17:45 : update: added Main Playlist/LofiUnknown7.mp3
+Oct 15 17:45 : update: removing ChristmasLofi.mp3
+Oct 15 17:45 : update: added LOFI/ChristmasLofi.mp3
+Oct 15 17:46 : update: removing LofiUnknown3.mp3
+Oct 15 17:46 : update: removing LofiUnknown2.mp3
+Oct 15 17:46 : update: removing LofiUnknown.mp3
+Oct 15 17:46 : update: removing LofiGamingMix.mp3
+Oct 15 17:46 : update: removing ItGetsBetterlofi.mp3
+Oct 15 17:46 : update: removing YoullGetThroughThisLofi.mp3
+Oct 15 17:46 : update: removing PovYoureAloneLofi.mp3
+Oct 15 17:46 : update: removing PovItsAllergySeasonLofi.mp3
+Oct 15 17:46 : update: removing LofiUnknown7.mp3
+Oct 15 17:46 : update: removing LofiUnknown6.mp3
+Oct 15 17:46 : update: removing LofiUnknown5.mp3
+Oct 15 17:46 : update: removing LofiUnknown4.mp3
+Oct 15 17:46 : update: added LOFI/LofiUnknown2.mp3
+Oct 15 17:46 : update: added LOFI/LofiUnknown3.mp3
+Oct 15 17:46 : update: added LOFI/ItGetsBetterlofi.mp3
+Oct 15 17:46 : update: added LOFI/LofiUnknown.mp3
+Oct 15 17:46 : update: added LOFI/LofiUnknown6.mp3
+Oct 15 17:46 : update: added LOFI/PovYoureAloneLofi.mp3
+Oct 15 17:46 : update: added LOFI/YoullGetThroughThisLofi.mp3
+Oct 15 17:46 : update: added LOFI/LofiGamingMix.mp3
+Oct 15 17:46 : update: added LOFI/PovItsAllergySeasonLofi.mp3
+Oct 15 17:46 : update: added LOFI/LofiUnknown4.mp3
+Oct 15 17:46 : update: added LOFI/LofiUnknown5.mp3
+Oct 15 17:46 : update: added LOFI/LofiUnknown7.mp3
+Oct 15 17:46 : update: removing HappierByMarshmello.mp3
+Oct 15 17:46 : update: added POP/HappierByMarshmello.mp3
+Oct 15 17:46 : update: removing GiornoTheme.mp3
+Oct 15 17:46 : update: added misc/GiornoTheme.mp3
+Oct 15 17:58 : player: played "misc/GiornoTheme.mp3"
+Oct 15 17:58 : zeroconf: No global port, disabling zeroconf
+Oct 15 18:32 : player: played "misc/GiornoTheme.mp3"
+Oct 15 18:33 : zeroconf: No global port, disabling zeroconf
+Oct 15 20:43 : player: played "misc/GiornoTheme.mp3"
+Oct 15 22:46 : zeroconf: No global port, disabling zeroconf
+Oct 15 22:54 : exception: Failed to open audio output
+Oct 15 22:57 : output: Failed to play on "pulse audio" (pulse): disconnected
+Oct 15 22:57 : exception: Failed to open audio output
+Oct 15 22:57 : player: played "LOFI/LofiGamingMix.mp3"
+Oct 15 22:57 : zeroconf: No global port, disabling zeroconf
+Oct 15 23:03 : player: played "Main Playlist/HappierByMarshmello.mp3"
+Oct 15 23:04 : zeroconf: No global port, disabling zeroconf
+Oct 15 23:04 : config: option 'buffer_time' on line 27 was not recognized
+Oct 15 23:04 : config: option 'max_client' on line 42 was not recognized
+Oct 15 23:04 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 16 09:15 : player: played "Main Playlist/HappierByMarshmello.mp3"
+Oct 16 09:36 : zeroconf: No global port, disabling zeroconf
+Oct 16 09:36 : config: option 'buffer_time' on line 27 was not recognized
+Oct 16 09:36 : config: option 'max_client' on line 42 was not recognized
+Oct 16 09:36 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 16 09:41 : player: played "Main Playlist/GiornoTheme.mp3"
+Oct 16 10:51 : update: added Game-OST/Horizon-DL.mp3
+Oct 16 10:51 : update: added Main Playlist/Horizon-DL.mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Nun Major.mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Caribbean.mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Long Run.mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Homicide (feat. BandGang Lonnie Bands & OhGeesy).mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Up-Top Baby.mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Bounce Out With That.mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Rubbin off the Paint.mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Nah For Real.mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Myself.mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Way Up.mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Let Go.mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Sunflower - Spider-Man: Into the Spider-Verse.mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Rolex.mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] I'm Something Else.mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Home.mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Fuck Love (feat. Trippie Redd).mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] The Race.mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Saint.mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Gassed Up.mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Chopsticks.mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Noticed.mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Kamikaze.mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Signs of Jealousy.mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Call Me.mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Legends.mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Porsches In The Rain.mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Big Money.mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] XO Tour Llif3.mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Sauce It Up.mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Everybody Dies In Their Nightmares.mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] SICKO MODE.mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] THE SCOTTS.mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] goosebumps.mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] wonderful.mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Ghostface Killers.mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Let It Fly (feat. Travis Scott).mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Pepper Spray.mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Horses (with PnB Rock, Kodak Black & A Boogie Wit da Hoodie).mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Nowadays (feat. Landon Cube).mp3
+Oct 16 11:09 : update: added [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Creeping (feat. Rich the Kid).mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Call Me.mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] Rubbin off the Paint.mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] Homicide (feat. BandGang Lonnie Bands & OhGeesy).mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] Home.mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Caribbean.mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Homicide (feat. BandGang Lonnie Bands & OhGeesy).mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Noticed.mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Kamikaze.mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Myself.mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] XO Tour Llif3.mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Sauce It Up.mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Long Run.mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Nowadays (feat. Landon Cube).mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Big Money.mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Legends.mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] I'm Something Else.mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] Nah For Real.mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Saint.mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Gassed Up.mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Pepper Spray.mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Creeping (feat. Rich the Kid).mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] wonderful.mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] goosebumps.mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] SICKO MODE.mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Fuck Love (feat. Trippie Redd).mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Everybody Dies In Their Nightmares.mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] The Race.mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Up-Top Baby.mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Rubbin off the Paint.mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Porsches In The Rain.mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Nah For Real.mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Chopsticks.mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Bounce Out With That.mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] THE SCOTTS.mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Ghostface Killers.mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Horses (with PnB Rock, Kodak Black & A Boogie Wit da Hoodie).mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Let It Fly (feat. Travis Scott).mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Way Up.mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Sunflower - Spider-Man: Into the Spider-Verse.mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Let Go.mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Home.mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Signs of Jealousy.mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Nun Major.mp3
+Oct 16 11:10 : update: removing [SPOTIFY-DOWNLOADER.COM] Playl1st 4.o.zip/[SPOTIFY-DOWNLOADER.COM] Rolex.mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] Long Run.mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] Ghostface Killers.mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] wonderful.mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] I'm Something Else.mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] Up-Top Baby.mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] Creeping (feat. Rich the Kid).mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] goosebumps.mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] Kamikaze.mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] Signs of Jealousy.mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] Gassed Up.mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] XO Tour Llif3.mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] Sauce It Up.mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] Porsches In The Rain.mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] Myself.mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] Everybody Dies In Their Nightmares.mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] Noticed.mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] Caribbean.mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] The Race.mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] Pepper Spray.mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] SICKO MODE.mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] Horses (with PnB Rock, Kodak Black & A Boogie Wit da Hoodie).mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] Saint.mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] Nun Major.mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] Let Go.mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] Call Me.mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] Fuck Love (feat. Trippie Redd).mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] Sunflower - Spider-Man: Into the Spider-Verse.mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] THE SCOTTS.mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] Big Money.mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] Nowadays (feat. Landon Cube).mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] Legends.mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] Chopsticks.mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] Bounce Out With That.mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] Let It Fly (feat. Travis Scott).mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] Rolex.mp3
+Oct 16 11:10 : update: added misc/sporify-playlist4/[SPOTIFY-DOWNLOADER.COM] Way Up.mp3
+Oct 16 12:02 : update: added Main Playlist/Long Run.mp3
+Oct 16 12:02 : update: added Main Playlist/I'm Something Else.mp3
+Oct 16 12:02 : update: added Main Playlist/Bounce Out With That.mp3
+Oct 16 12:02 : update: added Main Playlist/Nae-Nae.mp3
+Oct 16 12:02 : update: added Main Playlist/Nowadays (feat. Landon Cube).mp3
+Oct 16 12:02 : update: added Main Playlist/Rolex.mp3
+Oct 16 12:02 : update: added Main Playlist/Animals.mp3
+Oct 16 12:02 : update: added Main Playlist/Way Up.mp3
+Oct 16 12:02 : update: added Main Playlist/Thunder.mp3
+Oct 16 12:02 : update: added Main Playlist/Believer (feat. Lil Wayne).mp3
+Oct 16 12:02 : update: added Main Playlist/Fuck Love (feat. Trippie Redd).mp3
+Oct 16 12:02 : update: added Main Playlist/Can't Hold Us (feat. Ray Dalton).mp3
+Oct 16 12:02 : update: added Main Playlist/Homicide (feat. BandGang Lonnie Bands & OhGeesy).mp3
+Oct 16 12:02 : update: added Main Playlist/Radioactive.mp3
+Oct 16 12:02 : update: added Main Playlist/Hall of Fame (feat. will.i.am).mp3
+Oct 16 12:02 : update: added Main Playlist/Up-Top Baby.mp3
+Oct 16 12:02 : update: added Main Playlist/HUMBLE.mp3
+Oct 16 12:02 : update: added Main Playlist/Chopsticks.mp3
+Oct 16 12:02 : update: added Main Playlist/sunflower - Spider-Man: Into the Spider-Verse.mp3
+Oct 16 12:02 : update: added Main Playlist/Stereo Hearts (feat. Adam Levine).mp3
+Oct 16 12:02 : update: added Main Playlist/Let Go.mp3
+Oct 16 12:02 : update: added Main Playlist/Call Me.mp3
+Oct 16 12:02 : update: added Main Playlist/Payphone.mp3
+Oct 16 12:02 : update: added Main Playlist/Caribbean.mp3
+Oct 16 12:02 : update: added Main Playlist/Nun Major.mp3
+Oct 16 12:02 : update: added Main Playlist/Dynamite.mp3
+Oct 16 12:02 : update: added Main Playlist/Big Money.mp3
+Oct 16 12:02 : update: added Main Playlist/Kamikaze.mp3
+Oct 16 12:02 : update: added Main Playlist/Noticed.mp3
+Oct 16 12:02 : update: added Main Playlist/Home.mp3
+Oct 16 12:02 : update: added Main Playlist/Ghostface Killers.mp3
+Oct 16 12:02 : update: added Main Playlist/XO Tour Llif3.mp3
+Oct 16 12:02 : update: added Main Playlist/Horses (with PnB Rock, Kodak Black & A Boogie Wit da Hoodie).mp3
+Oct 16 12:02 : update: added Main Playlist/The Race.mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/[SPOTIFY-DOWNLOADER.COM] Can't Hold Us (feat. Ray Dalton).mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/[SPOTIFY-DOWNLOADER.COM] Animals.mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/[SPOTIFY-DOWNLOADER.COM] Home.mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/[SPOTIFY-DOWNLOADER.COM] Hall of Fame (feat. will.i.am).mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/[SPOTIFY-DOWNLOADER.COM] I'm Something Else.mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/.zip/[SPOTIFY-DOWNLOADER.COM] 😎👌Clean👌😎.zip/[SPOTIFY-DOWNLOADER.COM] Radioactive.mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/.zip/[SPOTIFY-DOWNLOADER.COM] 😎👌Clean👌😎.zip/[SPOTIFY-DOWNLOADER.COM] Believer (feat. Lil Wayne).mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/.zip/[SPOTIFY-DOWNLOADER.COM] 😎👌Clean👌😎.zip/[SPOTIFY-DOWNLOADER.COM] Thunder.mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/.zip/[SPOTIFY-DOWNLOADER.COM] 😎👌Clean👌😎.zip/[SPOTIFY-DOWNLOADER.COM] Can't Hold Us (feat. Ray Dalton).mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/.zip/[SPOTIFY-DOWNLOADER.COM] 😎👌Clean👌😎.zip/[SPOTIFY-DOWNLOADER.COM] Rolex.mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/.zip/[SPOTIFY-DOWNLOADER.COM] 😎👌Clean👌😎.zip/[SPOTIFY-DOWNLOADER.COM] Dynamite.mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/.zip/[SPOTIFY-DOWNLOADER.COM] 😎👌Clean👌😎.zip/[SPOTIFY-DOWNLOADER.COM] Sunflower - Spider-Man: Into the Spider-Verse.mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/.zip/[SPOTIFY-DOWNLOADER.COM] 😎👌Clean👌😎.zip/[SPOTIFY-DOWNLOADER.COM] Home.mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/.zip/[SPOTIFY-DOWNLOADER.COM] 😎👌Clean👌😎.zip/[SPOTIFY-DOWNLOADER.COM] Way Up.mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/.zip/[SPOTIFY-DOWNLOADER.COM] 😎👌Clean👌😎.zip/[SPOTIFY-DOWNLOADER.COM] Let Go.mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/.zip/[SPOTIFY-DOWNLOADER.COM] 😎👌Clean👌😎.zip/[SPOTIFY-DOWNLOADER.COM] Hall of Fame (feat. will.i.am).mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/.zip/[SPOTIFY-DOWNLOADER.COM] 😎👌Clean👌😎.zip/[SPOTIFY-DOWNLOADER.COM] Payphone.mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/.zip/[SPOTIFY-DOWNLOADER.COM] 😎👌Clean👌😎.zip/[SPOTIFY-DOWNLOADER.COM] Stereo Hearts (feat. Adam Levine).mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/.zip/[SPOTIFY-DOWNLOADER.COM] 😎👌Clean👌😎.zip/[SPOTIFY-DOWNLOADER.COM] I'm Something Else.mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/.zip/[SPOTIFY-DOWNLOADER.COM] 😎👌Clean👌😎.zip/[SPOTIFY-DOWNLOADER.COM] Animals.mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/.zip/[SPOTIFY-DOWNLOADER.COM] 😎👌Clean👌😎.zip/[SPOTIFY-DOWNLOADER.COM] Noticed.mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/.zip/[SPOTIFY-DOWNLOADER.COM] 😎👌Clean👌😎.zip/[SPOTIFY-DOWNLOADER.COM] Kamikaze.mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/.zip/[SPOTIFY-DOWNLOADER.COM] 😎👌Clean👌😎.zip/[SPOTIFY-DOWNLOADER.COM] HUMBLE..mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/.zip/[SPOTIFY-DOWNLOADER.COM] 😎👌Clean👌😎.zip/[SPOTIFY-DOWNLOADER.COM] Watch Me (Whip / Nae Nae).mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/[SPOTIFY-DOWNLOADER.COM] Kamikaze.mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/[SPOTIFY-DOWNLOADER.COM] HUMBLE..mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/[SPOTIFY-DOWNLOADER.COM] Noticed.mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/ Nae Nae).mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/[SPOTIFY-DOWNLOADER.COM] Let Go.mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/[SPOTIFY-DOWNLOADER.COM] Believer (feat. Lil Wayne).mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/[SPOTIFY-DOWNLOADER.COM] Sunflower - Spider-Man: Into the Spider-Verse.mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/[SPOTIFY-DOWNLOADER.COM] Thunder.mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/[SPOTIFY-DOWNLOADER.COM] Dynamite.mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/[SPOTIFY-DOWNLOADER.COM] Radioactive.mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/[SPOTIFY-DOWNLOADER.COM] Rolex.mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/[SPOTIFY-DOWNLOADER.COM] Stereo Hearts (feat. Adam Levine).mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/[SPOTIFY-DOWNLOADER.COM] Payphone.mp3
+Oct 16 12:02 : update: added misc/spotify-playlist3/[SPOTIFY-DOWNLOADER.COM] Way Up.mp3
+Oct 16 12:15 : player: played "Main Playlist/Homicide (feat. BandGang Lonnie Bands & OhGeesy).mp3"
+Oct 16 12:15 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Oct 16 12:18 : player: played "Main Playlist/Caribbean.mp3"
+Oct 16 12:23 : player: played "Main Playlist/Horses (with PnB Rock, Kodak Black & A Boogie Wit da Hoodie).mp3"
+Oct 16 12:27 : player: played "POP/HappierByMarshmello.mp3"
+Oct 16 13:18 : player: played "Main Playlist/Stereo Hearts (feat. Adam Levine).mp3"
+Oct 16 13:19 : player: played "Main Playlist/GiornoTheme.mp3"
+Oct 16 14:21 : player: played "Main Playlist/HUMBLE.mp3"
+Oct 16 14:23 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Oct 16 15:24 : client: [0] command "close" during idle
+Oct 16 15:57 : player: played "Main Playlist/Nowadays (feat. Landon Cube).mp3"
+Oct 16 16:49 : zeroconf: No global port, disabling zeroconf
+Oct 16 16:49 : config: option 'buffer_time' on line 27 was not recognized
+Oct 16 16:49 : config: option 'max_client' on line 42 was not recognized
+Oct 16 16:49 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 16 17:27 : client: [0] command "close" during idle
+Oct 16 17:32 : client: [4] command "close" during idle
+Oct 16 18:05 : client: [5] command "close" during idle
+Oct 16 21:37 : zeroconf: No global port, disabling zeroconf
+Oct 16 21:37 : config: option 'buffer_time' on line 27 was not recognized
+Oct 16 21:37 : config: option 'max_client' on line 42 was not recognized
+Oct 16 21:37 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 16 22:17 : player: played "Main Playlist/Nowadays (feat. Landon Cube).mp3"
+Oct 17 15:46 : zeroconf: No global port, disabling zeroconf
+Oct 17 15:46 : config: option 'buffer_time' on line 27 was not recognized
+Oct 17 15:46 : config: option 'max_client' on line 42 was not recognized
+Oct 17 15:46 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 17 17:05 : player: played "Main Playlist/Nowadays (feat. Landon Cube).mp3"
+Oct 17 18:32 : zeroconf: No global port, disabling zeroconf
+Oct 17 18:32 : config: option 'buffer_time' on line 27 was not recognized
+Oct 17 18:32 : config: option 'max_client' on line 42 was not recognized
+Oct 17 18:32 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 17 19:52 : player: played "Main Playlist/Nowadays (feat. Landon Cube).mp3"
+Oct 17 19:52 : zeroconf: No global port, disabling zeroconf
+Oct 17 19:52 : config: option 'buffer_time' on line 27 was not recognized
+Oct 17 19:52 : config: option 'max_client' on line 42 was not recognized
+Oct 17 19:52 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 17 20:45 : player: played "Main Playlist/Nowadays (feat. Landon Cube).mp3"
+Oct 18 11:01 : zeroconf: No global port, disabling zeroconf
+Oct 18 11:01 : config: option 'buffer_time' on line 27 was not recognized
+Oct 18 11:01 : config: option 'max_client' on line 42 was not recognized
+Oct 18 11:01 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 18 13:29 : player: played "Main Playlist/Horses (with PnB Rock, Kodak Black & A Boogie Wit da Hoodie).mp3"
+Oct 18 13:32 : zeroconf: No global port, disabling zeroconf
+Oct 18 13:32 : config: option 'buffer_time' on line 27 was not recognized
+Oct 18 13:32 : config: option 'max_client' on line 42 was not recognized
+Oct 18 13:32 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 18 13:55 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Oct 18 13:57 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Oct 18 13:58 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Oct 18 14:02 : player: played "Main Playlist/Horses (with PnB Rock, Kodak Black & A Boogie Wit da Hoodie).mp3"
+Oct 18 15:03 : player: played "Main Playlist/LofiUnknown.mp3"
+Oct 18 15:16 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Oct 18 16:58 : player: played "Main Playlist/Homicide (feat. BandGang Lonnie Bands & OhGeesy).mp3"
+Oct 18 16:59 : zeroconf: No global port, disabling zeroconf
+Oct 18 16:59 : config: option 'buffer_time' on line 27 was not recognized
+Oct 18 16:59 : config: option 'max_client' on line 42 was not recognized
+Oct 18 16:59 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 18 17:09 : zeroconf: No global port, disabling zeroconf
+Oct 18 17:09 : config: option 'buffer_time' on line 27 was not recognized
+Oct 18 17:09 : config: option 'max_client' on line 42 was not recognized
+Oct 18 17:09 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 18 17:12 : player: played "Main Playlist/Homicide (feat. BandGang Lonnie Bands & OhGeesy).mp3"
+Oct 19 13:57 : zeroconf: No global port, disabling zeroconf
+Oct 19 13:57 : config: option 'buffer_time' on line 27 was not recognized
+Oct 19 13:57 : config: option 'max_client' on line 42 was not recognized
+Oct 19 13:57 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 19 14:04 : player: played "Main Playlist/Caribbean.mp3"
+Oct 19 14:07 : player: played "Main Playlist/Nun Major.mp3"
+Oct 19 14:16 : player: played "Main Playlist/Horses (with PnB Rock, Kodak Black & A Boogie Wit da Hoodie).mp3"
+Oct 19 14:21 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Oct 19 14:21 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 19 14:24 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 19 14:26 : player: played "Main Playlist/The Race.mp3"
+Oct 19 14:30 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Oct 19 14:30 : player: played "Main Playlist/Kamikaze.mp3"
+Oct 19 14:33 : player: played "Main Playlist/Noticed.mp3"
+Oct 19 14:39 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Oct 19 14:42 : player: played "Main Playlist/Payphone.mp3"
+Oct 19 15:05 : player: played "Main Playlist/Call Me.mp3"
+Oct 19 15:10 : player: played "Main Playlist/Caribbean.mp3"
+Oct 19 15:13 : player: played "Main Playlist/Stereo Hearts (feat. Adam Levine).mp3"
+Oct 19 15:16 : player: played "Main Playlist/Noticed.mp3"
+Oct 19 15:20 : player: played "Main Playlist/Rolex.mp3"
+Oct 19 15:23 : player: played "Main Playlist/sunflower - Spider-Man: Into the Spider-Verse.mp3"
+Oct 19 15:25 : player: played "Main Playlist/Bounce Out With That.mp3"
+Oct 19 15:25 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Oct 19 15:31 : player: played "Main Playlist/Nowadays (feat. Landon Cube).mp3"
+Oct 19 15:33 : player: played "Main Playlist/Nun Major.mp3"
+Oct 19 15:34 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Oct 19 15:34 : player: played "Main Playlist/Call Me.mp3"
+Oct 19 15:34 : exception: Not playing
+Oct 19 15:34 : exception: Not playing
+Oct 19 15:34 : exception: Not playing
+Oct 19 15:34 : exception: Not playing
+Oct 19 15:34 : exception: Not playing
+Oct 19 15:34 : exception: Not playing
+Oct 19 15:34 : exception: Not playing
+Oct 19 15:34 : exception: Not playing
+Oct 19 17:44 : player: played "LOFI/YoullGetThroughThisLofi.mp3"
+Oct 20 15:30 : zeroconf: No global port, disabling zeroconf
+Oct 20 15:30 : config: option 'buffer_time' on line 27 was not recognized
+Oct 20 15:30 : config: option 'max_client' on line 42 was not recognized
+Oct 20 15:30 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 20 17:28 : zeroconf: No global port, disabling zeroconf
+Oct 20 17:28 : config: option 'buffer_time' on line 27 was not recognized
+Oct 20 17:28 : config: option 'max_client' on line 42 was not recognized
+Oct 20 17:28 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 20 21:40 : player: played "LOFI/YoullGetThroughThisLofi.mp3"
+Oct 21 15:38 : zeroconf: No global port, disabling zeroconf
+Oct 21 15:38 : config: option 'buffer_time' on line 27 was not recognized
+Oct 21 15:38 : config: option 'max_client' on line 42 was not recognized
+Oct 21 15:38 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 21 19:10 : player: played "LOFI/YoullGetThroughThisLofi.mp3"
+Oct 21 19:35 : zeroconf: No global port, disabling zeroconf
+Oct 21 19:35 : config: option 'buffer_time' on line 27 was not recognized
+Oct 21 19:35 : config: option 'max_client' on line 42 was not recognized
+Oct 21 19:35 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 21 19:38 : player: played "LOFI/YoullGetThroughThisLofi.mp3"
+Oct 21 19:39 : zeroconf: No global port, disabling zeroconf
+Oct 21 19:39 : config: option 'buffer_time' on line 27 was not recognized
+Oct 21 19:39 : config: option 'max_client' on line 42 was not recognized
+Oct 21 19:39 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 21 20:02 : player: played "LOFI/YoullGetThroughThisLofi.mp3"
+Oct 21 20:07 : zeroconf: No global port, disabling zeroconf
+Oct 21 20:07 : config: option 'buffer_time' on line 27 was not recognized
+Oct 21 20:07 : config: option 'max_client' on line 42 was not recognized
+Oct 21 20:07 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 21 20:23 : player: played "LOFI/YoullGetThroughThisLofi.mp3"
+Oct 23 08:45 : zeroconf: No global port, disabling zeroconf
+Oct 23 08:45 : config: option 'buffer_time' on line 27 was not recognized
+Oct 23 08:45 : config: option 'max_client' on line 42 was not recognized
+Oct 23 08:45 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 23 09:09 : client: [0] command "close" during idle
+Oct 23 09:10 : client: [1] command "close" during idle
+Oct 23 09:11 : client: [2] command "close" during idle
+Oct 23 09:11 : client: [3] command "close" during idle
+Oct 23 09:12 : client: [4] command "close" during idle
+Oct 23 09:17 : client: [5] command "close" during idle
+Oct 23 09:25 : player: played "LOFI/YoullGetThroughThisLofi.mp3"
+Oct 23 09:25 : zeroconf: No global port, disabling zeroconf
+Oct 23 09:25 : config: option 'buffer_time' on line 27 was not recognized
+Oct 23 09:25 : config: option 'max_client' on line 42 was not recognized
+Oct 23 09:25 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 23 09:36 : player: played "LOFI/YoullGetThroughThisLofi.mp3"
+Oct 23 09:37 : zeroconf: No global port, disabling zeroconf
+Oct 23 09:37 : config: option 'buffer_time' on line 27 was not recognized
+Oct 23 09:37 : config: option 'max_client' on line 42 was not recognized
+Oct 23 09:37 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 23 09:42 : player: played "LOFI/YoullGetThroughThisLofi.mp3"
+Oct 23 09:42 : zeroconf: No global port, disabling zeroconf
+Oct 23 09:42 : config: option 'buffer_time' on line 27 was not recognized
+Oct 23 09:42 : config: option 'max_client' on line 42 was not recognized
+Oct 23 09:42 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 23 09:58 : player: played "LOFI/YoullGetThroughThisLofi.mp3"
+Oct 23 09:59 : zeroconf: No global port, disabling zeroconf
+Oct 23 09:59 : config: option 'buffer_time' on line 27 was not recognized
+Oct 23 09:59 : config: option 'max_client' on line 42 was not recognized
+Oct 23 09:59 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 23 10:05 : client: [0] command "close" during idle
+Oct 23 10:06 : client: [1] command "close" during idle
+Oct 23 10:10 : client: [2] command "close" during idle
+Oct 23 10:14 : client: [3] command "close" during idle
+Oct 23 10:17 : player: played "LOFI/YoullGetThroughThisLofi.mp3"
+Oct 23 10:29 : zeroconf: No global port, disabling zeroconf
+Oct 23 10:29 : config: option 'buffer_time' on line 27 was not recognized
+Oct 23 10:29 : config: option 'max_client' on line 42 was not recognized
+Oct 23 10:29 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 23 10:31 : player: played "LOFI/YoullGetThroughThisLofi.mp3"
+Oct 23 10:32 : zeroconf: No global port, disabling zeroconf
+Oct 23 10:32 : config: option 'buffer_time' on line 27 was not recognized
+Oct 23 10:32 : config: option 'max_client' on line 42 was not recognized
+Oct 23 10:32 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 23 10:33 : player: played "LOFI/YoullGetThroughThisLofi.mp3"
+Oct 23 10:34 : zeroconf: No global port, disabling zeroconf
+Oct 23 10:34 : config: option 'buffer_time' on line 27 was not recognized
+Oct 23 10:34 : config: option 'max_client' on line 42 was not recognized
+Oct 23 10:34 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 23 10:38 : player: played "LOFI/YoullGetThroughThisLofi.mp3"
+Oct 23 10:39 : zeroconf: No global port, disabling zeroconf
+Oct 23 10:39 : config: option 'buffer_time' on line 27 was not recognized
+Oct 23 10:39 : config: option 'max_client' on line 42 was not recognized
+Oct 23 10:39 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 23 10:55 : player: played "LOFI/YoullGetThroughThisLofi.mp3"
+Oct 23 10:56 : zeroconf: No global port, disabling zeroconf
+Oct 23 10:56 : config: option 'buffer_time' on line 27 was not recognized
+Oct 23 10:56 : config: option 'max_client' on line 42 was not recognized
+Oct 23 10:56 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 23 10:59 : player: played "Main Playlist/Homicide (feat. BandGang Lonnie Bands & OhGeesy).mp3"
+Oct 23 11:02 : player: played "Main Playlist/Caribbean.mp3"
+Oct 23 11:05 : player: played "Main Playlist/Stereo Hearts (feat. Adam Levine).mp3"
+Oct 23 11:08 : player: played "Main Playlist/Noticed.mp3"
+Oct 23 11:12 : player: played "Main Playlist/Rolex.mp3"
+Oct 23 11:15 : player: played "Main Playlist/sunflower - Spider-Man: Into the Spider-Verse.mp3"
+Oct 23 11:16 : client: [0] command "close" during idle
+Oct 23 11:17 : player: played "Main Playlist/Bounce Out With That.mp3"
+Oct 23 11:26 : player: played "Main Playlist/Nowadays (feat. Landon Cube).mp3"
+Oct 23 14:22 : zeroconf: No global port, disabling zeroconf
+Oct 23 14:22 : config: option 'buffer_time' on line 27 was not recognized
+Oct 23 14:22 : config: option 'max_client' on line 42 was not recognized
+Oct 23 14:22 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 23 14:59 : player: played "Main Playlist/Nowadays (feat. Landon Cube).mp3"
+Oct 23 15:13 : zeroconf: No global port, disabling zeroconf
+Oct 23 15:13 : config: option 'buffer_time' on line 27 was not recognized
+Oct 23 15:13 : config: option 'max_client' on line 42 was not recognized
+Oct 23 15:13 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 23 15:16 : player: played "Main Playlist/Nowadays (feat. Landon Cube).mp3"
+Oct 23 15:16 : zeroconf: No global port, disabling zeroconf
+Oct 23 15:16 : config: option 'buffer_time' on line 27 was not recognized
+Oct 23 15:16 : config: option 'max_client' on line 42 was not recognized
+Oct 23 15:16 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 23 15:18 : player: played "Main Playlist/Nun Major.mp3"
+Oct 23 15:18 : zeroconf: No global port, disabling zeroconf
+Oct 23 15:18 : config: option 'buffer_time' on line 27 was not recognized
+Oct 23 15:18 : config: option 'max_client' on line 42 was not recognized
+Oct 23 15:18 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 23 15:21 : player: played "Main Playlist/Nun Major.mp3"
+Oct 23 15:29 : player: played "Main Playlist/Payphone.mp3"
+Oct 23 15:32 : player: played "Main Playlist/Call Me.mp3"
+Oct 23 15:38 : player: played "Main Playlist/Caribbean.mp3"
+Oct 23 15:41 : player: played "Main Playlist/Stereo Hearts (feat. Adam Levine).mp3"
+Oct 23 15:44 : player: played "Main Playlist/Noticed.mp3"
+Oct 23 16:07 : player: played "Main Playlist/Nun Major.mp3"
+Oct 23 16:11 : player: played "Main Playlist/Long Run.mp3"
+Oct 23 16:15 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 23 16:19 : player: played "Main Playlist/Horses (with PnB Rock, Kodak Black & A Boogie Wit da Hoodie).mp3"
+Oct 23 16:22 : player: played "Game-OST/Horizon-DL.mp3"
+Oct 23 16:24 : player: played "Main Playlist/Homicide (feat. BandGang Lonnie Bands & OhGeesy).mp3"
+Oct 23 16:27 : player: played "Main Playlist/Caribbean.mp3"
+Oct 23 16:30 : player: played "Main Playlist/Stereo Hearts (feat. Adam Levine).mp3"
+Oct 23 16:33 : player: played "Main Playlist/Noticed.mp3"
+Oct 23 16:37 : player: played "Main Playlist/Rolex.mp3"
+Oct 23 17:22 : player: played "Main Playlist/sunflower - Spider-Man: Into the Spider-Verse.mp3"
+Oct 23 18:43 : zeroconf: No global port, disabling zeroconf
+Oct 23 18:43 : config: option 'buffer_time' on line 27 was not recognized
+Oct 23 18:43 : config: option 'max_client' on line 42 was not recognized
+Oct 23 18:43 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 23 18:48 : player: played "Main Playlist/sunflower - Spider-Man: Into the Spider-Verse.mp3"
+Oct 23 18:49 : zeroconf: No global port, disabling zeroconf
+Oct 23 18:49 : config: option 'buffer_time' on line 27 was not recognized
+Oct 23 18:49 : config: option 'max_client' on line 42 was not recognized
+Oct 23 18:49 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 23 18:50 : client: [0] command "close" during idle
+Oct 23 18:50 : player: played "Main Playlist/sunflower - Spider-Man: Into the Spider-Verse.mp3"
+Oct 23 18:50 : zeroconf: No global port, disabling zeroconf
+Oct 23 18:50 : config: option 'buffer_time' on line 27 was not recognized
+Oct 23 18:50 : config: option 'max_client' on line 42 was not recognized
+Oct 23 18:50 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 23 18:50 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Oct 23 18:51 : player: played "Main Playlist/sunflower - Spider-Man: Into the Spider-Verse.mp3"
+Oct 23 18:51 : zeroconf: No global port, disabling zeroconf
+Oct 23 18:51 : config: option 'buffer_time' on line 27 was not recognized
+Oct 23 18:51 : config: option 'max_client' on line 42 was not recognized
+Oct 23 18:51 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 23 18:53 : output: Failed to play on "PipeWire Sound Server" (pipewire): connection error
+Oct 23 18:53 : player: played "Main Playlist/sunflower - Spider-Man: Into the Spider-Verse.mp3"
+Oct 23 18:54 : zeroconf: No global port, disabling zeroconf
+Oct 23 18:54 : config: option 'buffer_time' on line 27 was not recognized
+Oct 23 18:54 : config: option 'max_client' on line 42 was not recognized
+Oct 23 18:54 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 23 18:54 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Oct 23 18:55 : player: played "Main Playlist/Nae-Nae.mp3"
+Oct 23 18:56 : zeroconf: No global port, disabling zeroconf
+Oct 23 18:56 : config: option 'buffer_time' on line 27 was not recognized
+Oct 23 18:56 : config: option 'max_client' on line 42 was not recognized
+Oct 23 18:56 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 23 18:56 : player: played "Main Playlist/Rolex.mp3"
+Oct 23 18:57 : zeroconf: No global port, disabling zeroconf
+Oct 23 18:57 : config: option 'buffer_time' on line 27 was not recognized
+Oct 23 18:57 : config: option 'max_client' on line 42 was not recognized
+Oct 23 18:57 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 23 18:59 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Oct 23 19:01 : player: played "Main Playlist/Caribbean.mp3"
+Oct 23 19:05 : player: played "Main Playlist/Stereo Hearts (feat. Adam Levine).mp3"
+Oct 23 19:13 : player: played "Main Playlist/Noticed.mp3"
+Oct 23 21:40 : zeroconf: No global port, disabling zeroconf
+Oct 23 21:40 : config: option 'buffer_time' on line 27 was not recognized
+Oct 23 21:40 : config: option 'max_client' on line 42 was not recognized
+Oct 23 21:40 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 23 21:59 : player: played "Main Playlist/Noticed.mp3"
+Oct 24 15:45 : zeroconf: No global port, disabling zeroconf
+Oct 24 15:45 : config: option 'buffer_time' on line 27 was not recognized
+Oct 24 15:45 : config: option 'max_client' on line 42 was not recognized
+Oct 24 15:45 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 24 15:51 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Oct 24 15:54 : player: played "Main Playlist/Homicide (feat. BandGang Lonnie Bands & OhGeesy).mp3"
+Oct 24 15:57 : player: played "Main Playlist/Caribbean.mp3"
+Oct 24 16:09 : player: played "Main Playlist/Nun Major.mp3"
+Oct 24 16:14 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 24 16:18 : player: played "Main Playlist/Horses (with PnB Rock, Kodak Black & A Boogie Wit da Hoodie).mp3"
+Oct 24 16:20 : player: played "Main Playlist/Homicide (feat. BandGang Lonnie Bands & OhGeesy).mp3"
+Oct 24 16:23 : player: played "Main Playlist/Caribbean.mp3"
+Oct 24 16:27 : player: played "Main Playlist/Stereo Hearts (feat. Adam Levine).mp3"
+Oct 24 16:30 : player: played "Main Playlist/Noticed.mp3"
+Oct 24 16:34 : player: played "Main Playlist/Rolex.mp3"
+Oct 24 16:34 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Oct 24 16:39 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 24 16:43 : player: played "Main Playlist/Horses (with PnB Rock, Kodak Black & A Boogie Wit da Hoodie).mp3"
+Oct 24 16:48 : player: played "Main Playlist/Homicide (feat. BandGang Lonnie Bands & OhGeesy).mp3"
+Oct 24 16:52 : player: played "Main Playlist/Caribbean.mp3"
+Oct 24 16:56 : player: played "Main Playlist/Stereo Hearts (feat. Adam Levine).mp3"
+Oct 24 16:59 : player: played "Main Playlist/Noticed.mp3"
+Oct 24 17:03 : player: played "Main Playlist/Rolex.mp3"
+Oct 24 17:05 : player: played "Main Playlist/sunflower - Spider-Man: Into the Spider-Verse.mp3"
+Oct 24 17:07 : player: played "Main Playlist/Bounce Out With That.mp3"
+Oct 24 17:07 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Oct 24 17:14 : player: played "Main Playlist/Nowadays (feat. Landon Cube).mp3"
+Oct 24 17:16 : player: played "Main Playlist/Nun Major.mp3"
+Oct 24 17:20 : player: played "Main Playlist/Long Run.mp3"
+Oct 24 20:15 : zeroconf: No global port, disabling zeroconf
+Oct 24 20:15 : config: option 'buffer_time' on line 27 was not recognized
+Oct 24 20:15 : config: option 'max_client' on line 42 was not recognized
+Oct 25 08:02 : zeroconf: No global port, disabling zeroconf
+Oct 25 08:02 : config: option 'buffer_time' on line 27 was not recognized
+Oct 25 08:02 : config: option 'max_client' on line 42 was not recognized
+Oct 25 13:34 : zeroconf: No global port, disabling zeroconf
+Oct 25 13:34 : config: option 'buffer_time' on line 27 was not recognized
+Oct 25 13:34 : config: option 'max_client' on line 42 was not recognized
+Oct 25 15:41 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 25 15:48 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 15:48 : zeroconf: No global port, disabling zeroconf
+Oct 25 15:48 : config: option 'buffer_time' on line 27 was not recognized
+Oct 25 15:48 : config: option 'max_client' on line 42 was not recognized
+Oct 25 15:48 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 25 15:51 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 15:52 : zeroconf: No global port, disabling zeroconf
+Oct 25 15:52 : config: option 'buffer_time' on line 27 was not recognized
+Oct 25 15:52 : config: option 'max_client' on line 42 was not recognized
+Oct 25 15:52 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 25 15:53 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 15:55 : zeroconf: No global port, disabling zeroconf
+Oct 25 15:55 : config: option 'buffer_time' on line 27 was not recognized
+Oct 25 15:55 : config: option 'max_client' on line 42 was not recognized
+Oct 25 15:55 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 25 15:55 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Oct 25 15:56 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 15:56 : zeroconf: No global port, disabling zeroconf
+Oct 25 15:56 : config: option 'buffer_time' on line 27 was not recognized
+Oct 25 15:56 : config: option 'max_client' on line 42 was not recognized
+Oct 25 15:56 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 25 16:03 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Oct 25 16:03 : player: played "Main Playlist/Homicide (feat. BandGang Lonnie Bands & OhGeesy).mp3"
+Oct 25 16:06 : player: played "Main Playlist/Caribbean.mp3"
+Oct 25 16:09 : player: played "Main Playlist/Stereo Hearts (feat. Adam Levine).mp3"
+Oct 25 16:12 : client: [0] command "close" during idle
+Oct 25 16:12 : player: played "Main Playlist/Nun Major.mp3"
+Oct 25 16:13 : client: [8] command "close" during idle
+Oct 25 16:16 : client: [11] command "close" during idle
+Oct 25 16:19 : player: played "Main Playlist/Horses (with PnB Rock, Kodak Black & A Boogie Wit da Hoodie).mp3"
+Oct 25 16:21 : player: played "Main Playlist/Homicide (feat. BandGang Lonnie Bands & OhGeesy).mp3"
+Oct 25 16:24 : player: played "Main Playlist/Caribbean.mp3"
+Oct 25 16:24 : client: [14] command "close" during idle
+Oct 25 16:27 : client: [17] command "close" during idle
+Oct 25 16:28 : player: played "Main Playlist/Stereo Hearts (feat. Adam Levine).mp3"
+Oct 25 16:28 : client: [20] command "close" during idle
+Oct 25 16:28 : client: [23] command "close" during idle
+Oct 25 16:29 : client: [26] command "close" during idle
+Oct 25 16:29 : client: [29] command "close" during idle
+Oct 25 16:29 : client: [32] command "close" during idle
+Oct 25 16:29 : client: [35] command "close" during idle
+Oct 25 16:31 : player: played "Main Playlist/Noticed.mp3"
+Oct 25 16:31 : client: [41] command "close" during idle
+Oct 25 16:31 : client: [42] command "close" during idle
+Oct 25 16:32 : client: [43] command "close" during idle
+Oct 25 16:34 : client: [44] command "close" during idle
+Oct 25 16:39 : client: [46] command "close" during idle
+Oct 25 16:39 : client: [47] command "close" during idle
+Oct 25 16:43 : client: [48] command "close" during idle
+Oct 25 16:45 : client: [49] command "close" during idle
+Oct 25 16:45 : client: [50] command "close" during idle
+Oct 25 16:46 : client: [51] command "close" during idle
+Oct 25 16:49 : player: played "Main Playlist/sunflower - Spider-Man: Into the Spider-Verse.mp3"
+Oct 25 16:50 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Oct 25 16:52 : player: played "Main Playlist/Nun Major.mp3"
+Oct 25 16:53 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Oct 25 16:57 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Oct 25 16:58 : player: played "Main Playlist/Long Run.mp3"
+Oct 25 16:58 : exception: Not playing
+Oct 25 16:58 : exception: Not playing
+Oct 25 17:07 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 17:11 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 17:15 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 17:18 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 17:22 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 17:26 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 17:30 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 17:34 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 17:38 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 17:42 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 17:46 : client: [54] command "close" during idle
+Oct 25 17:46 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 17:46 : client: [62] command "close" during idle
+Oct 25 17:47 : client: [65] command "close" during idle
+Oct 25 17:47 : client: [68] command "close" during idle
+Oct 25 17:48 : client: [69] command "close" during idle
+Oct 25 17:49 : client: [72] command "close" during idle
+Oct 25 17:50 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 17:53 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 17:57 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 18:00 : client: [75] command "close" during idle
+Oct 25 18:01 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 18:05 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 18:06 : client: [78] command "close" during idle
+Oct 25 18:08 : client: [81] command "close" during idle
+Oct 25 18:09 : client: [84] command "close" during idle
+Oct 25 18:09 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 18:10 : client: [87] command "close" during idle
+Oct 25 18:11 : client: [90] command "close" during idle
+Oct 25 18:13 : client: [93] command "close" during idle
+Oct 25 18:13 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 18:15 : client: [96] command "close" during idle
+Oct 25 18:15 : client: [99] command "close" during idle
+Oct 25 18:16 : client: [102] command "close" during idle
+Oct 25 18:17 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 18:18 : client: [105] command "close" during idle
+Oct 25 18:20 : client: [108] command "close" during idle
+Oct 25 18:21 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 18:25 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 18:25 : client: [111] command "close" during idle
+Oct 25 18:28 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 18:32 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 18:36 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 18:40 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 18:44 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 18:45 : client: [114] command "close" during idle
+Oct 25 18:48 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 18:52 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 18:53 : client: [117] command "close" during idle
+Oct 25 18:56 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 18:58 : client: [120] command "close" during idle
+Oct 25 18:59 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 19:03 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 19:07 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 19:11 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 19:15 : client: [123] command "close" during idle
+Oct 25 19:15 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 25 21:14 : zeroconf: No global port, disabling zeroconf
+Oct 25 21:14 : config: option 'buffer_time' on line 27 was not recognized
+Oct 25 21:14 : config: option 'max_client' on line 42 was not recognized
+Oct 25 21:14 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 25 21:30 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 26 14:00 : zeroconf: No global port, disabling zeroconf
+Oct 26 14:00 : config: option 'buffer_time' on line 27 was not recognized
+Oct 26 14:00 : config: option 'max_client' on line 42 was not recognized
+Oct 26 14:00 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 26 14:05 : player: played "Main Playlist/Horses (with PnB Rock, Kodak Black & A Boogie Wit da Hoodie).mp3"
+Oct 26 14:10 : player: played "Main Playlist/Horses (with PnB Rock, Kodak Black & A Boogie Wit da Hoodie).mp3"
+Oct 26 14:13 : client: [0] command "close" during idle
+Oct 26 14:14 : player: played "Main Playlist/Horses (with PnB Rock, Kodak Black & A Boogie Wit da Hoodie).mp3"
+Oct 26 14:16 : player: played "Game-OST/Horizon-DL.mp3"
+Oct 26 14:17 : client: [4] command "close" during idle
+Oct 26 14:18 : client: [7] command "close" during idle
+Oct 26 14:19 : player: played "Main Playlist/Homicide (feat. BandGang Lonnie Bands & OhGeesy).mp3"
+Oct 26 14:20 : client: [10] command "close" during idle
+Oct 26 14:22 : player: played "Main Playlist/Caribbean.mp3"
+Oct 26 14:25 : player: played "Main Playlist/Stereo Hearts (feat. Adam Levine).mp3"
+Oct 26 14:28 : client: [13] command "close" during idle
+Oct 26 14:28 : player: played "Main Playlist/Noticed.mp3"
+Oct 26 14:32 : player: played "Main Playlist/Rolex.mp3"
+Oct 26 14:35 : player: played "Main Playlist/sunflower - Spider-Man: Into the Spider-Verse.mp3"
+Oct 26 14:37 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Oct 26 14:37 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Oct 26 14:40 : player: played "Main Playlist/Nun Major.mp3"
+Oct 26 14:40 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Oct 26 14:54 : player: played "Main Playlist/Long Run.mp3"
+Oct 26 14:54 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Oct 26 14:56 : client: [16] command "close" during idle
+Oct 26 14:59 : player: played "Main Playlist/Hall of Fame (feat. will.i.am).mp3"
+Oct 26 15:02 : client: [22] command "close" during idle
+Oct 26 15:03 : player: played "Main Playlist/Horses (with PnB Rock, Kodak Black & A Boogie Wit da Hoodie).mp3"
+Oct 26 15:03 : client: [26] command "close" during idle
+Oct 26 15:05 : player: played "Game-OST/Horizon-DL.mp3"
+Oct 26 15:08 : player: played "Main Playlist/Homicide (feat. BandGang Lonnie Bands & OhGeesy).mp3"
+Oct 26 15:08 : client: [27] command "close" during idle
+Oct 26 15:08 : client: [28] command "close" during idle
+Oct 26 15:08 : client: [29] command "close" during idle
+Oct 26 15:09 : client: [30] command "close" during idle
+Oct 26 15:11 : player: played "Main Playlist/Caribbean.mp3"
+Oct 26 15:14 : player: played "Main Playlist/Stereo Hearts (feat. Adam Levine).mp3"
+Oct 26 15:17 : client: [31] command "close" during idle
+Oct 26 15:17 : player: played "Main Playlist/Noticed.mp3"
+Oct 26 15:18 : client: [32] command "close" during idle
+Oct 26 15:18 : client: [33] command "close" during idle
+Oct 26 15:20 : client: [34] command "close" during idle
+Oct 26 15:20 : client: [35] command "close" during idle
+Oct 26 15:21 : client: [36] command "close" during idle
+Oct 26 15:21 : player: played "Main Playlist/Rolex.mp3"
+Oct 26 15:23 : client: [37] command "close" during idle
+Oct 26 15:23 : client: [38] command "close" during idle
+Oct 26 15:24 : client: [39] command "close" during idle
+Oct 26 15:24 : player: played "Main Playlist/sunflower - Spider-Man: Into the Spider-Verse.mp3"
+Oct 26 15:26 : client: [40] command "close" during idle
+Oct 26 15:26 : client: [41] command "close" during idle
+Oct 26 15:27 : client: [42] command "close" during idle
+Oct 26 15:27 : client: [43] command "close" during idle
+Oct 26 15:27 : player: played "Main Playlist/Nae-Nae.mp3"
+Oct 26 15:28 : client: [44] command "close" during idle
+Oct 26 15:29 : player: played "Main Playlist/Bounce Out With That.mp3"
+Oct 26 15:32 : client: [45] command "close" during idle
+Oct 26 15:35 : player: played "Main Playlist/Nowadays (feat. Landon Cube).mp3"
+Oct 26 15:37 : player: played "Main Playlist/Nun Major.mp3"
+Oct 26 15:41 : client: [46] command "close" during idle
+Oct 26 15:41 : client: [47] command "close" during idle
+Oct 26 15:42 : pipewire_output: Decoder is too slow; playing silence to avoid xrun
+Oct 26 15:45 : client: [48] command "close" during idle
+Oct 26 15:45 : client: [49] command "close" during idle
+Oct 26 15:45 : client: [50] command "close" during idle
+Oct 26 15:46 : client: [51] command "close" during idle
+Oct 26 15:46 : client: [52] command "close" during idle
+Oct 26 15:47 : client: [53] command "close" during idle
+Oct 26 15:47 : player: played "Main Playlist/Payphone.mp3"
+Oct 26 15:51 : client: [54] command "close" during idle
+Oct 26 15:52 : client: [58] command "close" during idle
+Oct 26 15:52 : player: played "Main Playlist/Chopsticks.mp3"
+Oct 26 15:52 : client: [59] command "close" during idle
+Oct 26 15:53 : client: [60] command "close" during idle
+Oct 26 17:15 : zeroconf: No global port, disabling zeroconf
+Oct 26 17:15 : config: option 'buffer_time' on line 27 was not recognized
+Oct 26 17:15 : config: option 'max_client' on line 42 was not recognized

@@ -1,0 +1,195 @@
+sw_volume: 100
+audio_device_state:1:PipeWire Sound Server
+audio_device_state:1:Visualizer
+audio_device_state:1:lossless
+state: stop
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:LOFI/ChristmasLofi.mp3
+1:LOFI/ItGetsBetterlofi.mp3
+2:LOFI/LofiGamingMix.mp3
+3:LOFI/LofiUnknown.mp3
+4:LOFI/LofiUnknown2.mp3
+5:LOFI/LofiUnknown3.mp3
+6:LOFI/LofiUnknown4.mp3
+7:LOFI/LofiUnknown5.mp3
+8:LOFI/LofiUnknown6.mp3
+9:LOFI/LofiUnknown7.mp3
+10:LOFI/PovItsAllergySeasonLofi.mp3
+11:LOFI/PovYoureAloneLofi.mp3
+12:LOFI/YoullGetThroughThisLofi.mp3
+13:Main Playlist/ChristmasLofi.mp3
+14:Main Playlist/GiornoTheme.mp3
+15:Main Playlist/ItGetsBetterlofi.mp3
+16:Main Playlist/LofiGamingMix.mp3
+17:Main Playlist/LofiUnknown.mp3
+18:Main Playlist/LofiUnknown2.mp3
+19:Main Playlist/LofiUnknown3.mp3
+20:Main Playlist/LofiUnknown4.mp3
+21:Main Playlist/LofiUnknown5.mp3
+22:Main Playlist/LofiUnknown6.mp3
+23:Main Playlist/LofiUnknown7.mp3
+24:Main Playlist/PovItsAllergySeasonLofi.mp3
+25:Main Playlist/PovYoureAloneLofi.mp3
+26:Main Playlist/YoullGetThroughThisLofi.mp3
+27:misc/GiornoTheme.mp3
+28:POP/HappierByMarshmello.mp3
+29:wynncraft/Adventure.mp3
+30:wynncraft/EpicWynn.mp3
+31:wynncraft/SaddleUp.mp3
+32:LOFI/ChristmasLofi.mp3
+33:LOFI/ItGetsBetterlofi.mp3
+34:LOFI/LofiGamingMix.mp3
+35:LOFI/LofiUnknown.mp3
+36:LOFI/LofiUnknown2.mp3
+37:LOFI/LofiUnknown3.mp3
+38:LOFI/LofiUnknown4.mp3
+39:LOFI/LofiUnknown5.mp3
+40:LOFI/LofiUnknown6.mp3
+41:LOFI/LofiUnknown7.mp3
+42:LOFI/PovItsAllergySeasonLofi.mp3
+43:LOFI/PovYoureAloneLofi.mp3
+44:LOFI/YoullGetThroughThisLofi.mp3
+45:Main Playlist/ChristmasLofi.mp3
+46:Main Playlist/GiornoTheme.mp3
+47:Main Playlist/ItGetsBetterlofi.mp3
+48:Main Playlist/LofiGamingMix.mp3
+49:Main Playlist/LofiUnknown.mp3
+50:Main Playlist/LofiUnknown2.mp3
+51:Main Playlist/LofiUnknown3.mp3
+52:Main Playlist/LofiUnknown4.mp3
+53:Main Playlist/LofiUnknown5.mp3
+54:Main Playlist/LofiUnknown6.mp3
+55:Main Playlist/LofiUnknown7.mp3
+56:Main Playlist/PovItsAllergySeasonLofi.mp3
+57:Main Playlist/PovYoureAloneLofi.mp3
+58:Main Playlist/YoullGetThroughThisLofi.mp3
+59:misc/GiornoTheme.mp3
+60:POP/HappierByMarshmello.mp3
+61:wynncraft/Adventure.mp3
+62:wynncraft/EpicWynn.mp3
+63:wynncraft/SaddleUp.mp3
+64:LOFI/ChristmasLofi.mp3
+65:LOFI/ItGetsBetterlofi.mp3
+66:LOFI/LofiGamingMix.mp3
+67:LOFI/LofiUnknown.mp3
+68:LOFI/LofiUnknown2.mp3
+69:LOFI/LofiUnknown3.mp3
+70:LOFI/LofiUnknown4.mp3
+71:LOFI/LofiUnknown5.mp3
+72:LOFI/LofiUnknown6.mp3
+73:LOFI/LofiUnknown7.mp3
+74:LOFI/PovItsAllergySeasonLofi.mp3
+75:LOFI/PovYoureAloneLofi.mp3
+76:LOFI/YoullGetThroughThisLofi.mp3
+77:Main Playlist/ChristmasLofi.mp3
+78:Main Playlist/GiornoTheme.mp3
+79:Main Playlist/ItGetsBetterlofi.mp3
+80:Main Playlist/LofiGamingMix.mp3
+81:Main Playlist/LofiUnknown.mp3
+82:Main Playlist/LofiUnknown2.mp3
+83:Main Playlist/LofiUnknown3.mp3
+84:Main Playlist/LofiUnknown4.mp3
+85:Main Playlist/LofiUnknown5.mp3
+86:Main Playlist/LofiUnknown6.mp3
+87:Main Playlist/LofiUnknown7.mp3
+88:Main Playlist/PovItsAllergySeasonLofi.mp3
+89:Main Playlist/PovYoureAloneLofi.mp3
+90:Main Playlist/YoullGetThroughThisLofi.mp3
+91:misc/GiornoTheme.mp3
+92:POP/HappierByMarshmello.mp3
+93:wynncraft/Adventure.mp3
+94:wynncraft/EpicWynn.mp3
+95:wynncraft/SaddleUp.mp3
+96:LOFI/ChristmasLofi.mp3
+97:LOFI/ItGetsBetterlofi.mp3
+98:LOFI/LofiGamingMix.mp3
+99:LOFI/LofiUnknown.mp3
+100:LOFI/LofiUnknown2.mp3
+101:LOFI/LofiUnknown3.mp3
+102:LOFI/LofiUnknown4.mp3
+103:LOFI/LofiUnknown5.mp3
+104:LOFI/LofiUnknown6.mp3
+105:LOFI/LofiUnknown7.mp3
+106:LOFI/PovItsAllergySeasonLofi.mp3
+107:LOFI/PovYoureAloneLofi.mp3
+108:LOFI/YoullGetThroughThisLofi.mp3
+109:Main Playlist/ChristmasLofi.mp3
+110:Main Playlist/GiornoTheme.mp3
+111:Main Playlist/ItGetsBetterlofi.mp3
+112:Main Playlist/LofiGamingMix.mp3
+113:Main Playlist/LofiUnknown.mp3
+114:Main Playlist/LofiUnknown2.mp3
+115:Main Playlist/LofiUnknown3.mp3
+116:Main Playlist/LofiUnknown4.mp3
+117:Main Playlist/LofiUnknown5.mp3
+118:Main Playlist/LofiUnknown6.mp3
+119:Main Playlist/LofiUnknown7.mp3
+120:Main Playlist/PovItsAllergySeasonLofi.mp3
+121:Main Playlist/PovYoureAloneLofi.mp3
+122:Main Playlist/YoullGetThroughThisLofi.mp3
+123:misc/GiornoTheme.mp3
+124:POP/HappierByMarshmello.mp3
+125:wynncraft/Adventure.mp3
+126:wynncraft/EpicWynn.mp3
+127:wynncraft/SaddleUp.mp3
+128:LOFI/ChristmasLofi.mp3
+129:LOFI/ItGetsBetterlofi.mp3
+130:LOFI/LofiGamingMix.mp3
+131:LOFI/LofiUnknown.mp3
+132:LOFI/LofiUnknown2.mp3
+133:LOFI/LofiUnknown3.mp3
+134:LOFI/LofiUnknown4.mp3
+135:LOFI/LofiUnknown5.mp3
+136:LOFI/LofiUnknown6.mp3
+137:LOFI/LofiUnknown7.mp3
+138:LOFI/PovItsAllergySeasonLofi.mp3
+139:LOFI/PovYoureAloneLofi.mp3
+140:LOFI/YoullGetThroughThisLofi.mp3
+141:Main Playlist/ChristmasLofi.mp3
+142:Main Playlist/GiornoTheme.mp3
+143:Main Playlist/ItGetsBetterlofi.mp3
+144:Main Playlist/LofiGamingMix.mp3
+145:Main Playlist/LofiUnknown.mp3
+146:Main Playlist/LofiUnknown2.mp3
+147:Main Playlist/LofiUnknown3.mp3
+148:Main Playlist/LofiUnknown4.mp3
+149:Main Playlist/LofiUnknown5.mp3
+150:Main Playlist/LofiUnknown6.mp3
+151:Main Playlist/LofiUnknown7.mp3
+152:Main Playlist/PovItsAllergySeasonLofi.mp3
+153:Main Playlist/PovYoureAloneLofi.mp3
+154:Main Playlist/YoullGetThroughThisLofi.mp3
+155:misc/GiornoTheme.mp3
+156:POP/HappierByMarshmello.mp3
+157:Main Playlist/HappierByMarshmello.mp3
+158:Main Playlist/Hall of Fame (feat. will.i.am).mp3
+159:Main Playlist/Horses (with PnB Rock, Kodak Black & A Boogie Wit da Hoodie).mp3
+160:Game-OST/Horizon-DL.mp3
+161:Main Playlist/Homicide (feat. BandGang Lonnie Bands & OhGeesy).mp3
+162:Main Playlist/Caribbean.mp3
+163:Main Playlist/Stereo Hearts (feat. Adam Levine).mp3
+164:Main Playlist/Noticed.mp3
+165:Main Playlist/Rolex.mp3
+166:Main Playlist/sunflower - Spider-Man: Into the Spider-Verse.mp3
+167:Main Playlist/Nae-Nae.mp3
+168:Main Playlist/Bounce Out With That.mp3
+169:Main Playlist/I'm Something Else.mp3
+170:Main Playlist/HUMBLE.mp3
+171:Main Playlist/Nowadays (feat. Landon Cube).mp3
+172:Main Playlist/Nun Major.mp3
+173:Main Playlist/Can't Hold Us (feat. Ray Dalton).mp3
+174:Main Playlist/The Race.mp3
+175:Main Playlist/Big Money.mp3
+176:Main Playlist/Kamikaze.mp3
+177:Main Playlist/Payphone.mp3
+178:Main Playlist/Call Me.mp3
+179:Main Playlist/Long Run.mp3
+180:Main Playlist/Chopsticks.mp3
+playlist_end
