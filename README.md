@@ -2,7 +2,7 @@
 
 Forked from: [Yoru](https://github.com/rxyhn/yoru)
 
-# [Fonts](https://drive.google.com/file/d/1-HtGlKTYzuiP_jBsT8-m2R8vBbDcnoR0/view?usp=sharing)
+# download these[Fonts](https://drive.google.com/file/d/1-HtGlKTYzuiP_jBsT8-m2R8vBbDcnoR0/view?usp=sharing)
 
 # Gallery 
 
